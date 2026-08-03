@@ -1,5 +1,4 @@
-/*
-=====================================================
+/*=====================================================
 Retail Sales Analysis using SQL
 Database Schema
 Author: Tammineni Himagiri
@@ -7,13 +6,18 @@ Author: Tammineni Himagiri
 Description:
 This script creates the database and all tables
 required for the Retail Sales Analysis project.
-=====================================================
-*/
+=====================================================*/
 
+-- ===========================================
 -- Create Database
+-- ===========================================
+
 CREATE DATABASE TitanTech_Retail;
 
+-- ===========================================
 -- Select Database
+-- ===========================================
+
 USE TitanTech_Retail;
 
 -- ===========================================
