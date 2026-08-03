@@ -129,5 +129,5 @@ The tables are connected using \*\*Primary Keys\*\* and \*\*Foreign Keys\*\* to 
 
 ## 👩‍💻 Author
 
-*\*Tammineni Himagiri\*\*
+**Tammineni Himagiri**
 
