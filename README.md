@@ -101,9 +101,9 @@ The tables are connected using \*\*Primary Keys\*\* and \*\*Foreign Keys\*\* to 
 
 - MySQL Workbench
 
-- SQL
+- SQL (MySQL)
 
-- Git \& GitHub
+- ChatGPT (used as a learning and a guidance tool)
 
 
 
@@ -129,7 +129,5 @@ The tables are connected using \*\*Primary Keys\*\* and \*\*Foreign Keys\*\* to 
 
 ## 👩‍💻 Author
 
-
-
-\*\*Tammineni Himagiri\*\*
+*\*Tammineni Himagiri\*\*
 
