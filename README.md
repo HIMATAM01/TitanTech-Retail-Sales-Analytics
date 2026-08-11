@@ -51,11 +51,11 @@ The SQL database was further used to build an interactive Power BI dashboard fea
 
 ![TitanTech Retail Dashboard](Images/01_Dashboard.png)
 
-### Product Toolkit
+### Brand Toolkit
 
 ![Brand Toolkit](Images/02_Brand_Toolkit.png)
 
-### Brand Toolkit
+### Product Toolkit
 
 ![Product Toolkit](Images/03_Product_Toolkit.png)
 
