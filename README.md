@@ -53,11 +53,11 @@ The SQL database was further used to build an interactive Power BI dashboard fea
 
 ### Product Toolkit
 
-![Product Toolkit](Images/02_Product-Toolkit.png)
+![Product Toolkit](Images/02_Product_Toolkit.png)
 
 ### Brand Toolkit
 
-![Brand Toolkit](Images/03_Brand-Toolkit.png)
+![Brand Toolkit](Images/03_Brand_Toolkit.png)
 
 ---
 
