@@ -117,12 +117,13 @@ TitanTech-Retail-Sales-Analytics/
 │   └── 03_Business_Queries.sql
 │
 └── README.md
-
+```
 
 ---
-
 
 ## 👩‍💻 Author
 
 **Tammineni Himagiri**
 
+
+B.Com Business Analytics
