@@ -118,6 +118,10 @@ TitanTech-Retail-Sales-Analytics/
 │
 └── README.md
 
+
+---
+
+
 ## 👩‍💻 Author
 
 **Tammineni Himagiri**
